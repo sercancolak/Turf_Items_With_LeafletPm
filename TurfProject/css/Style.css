@@ -1,0 +1,40 @@
+﻿#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    z-index:-1;
+}
+.btn:after {
+    font-family: "Glyphicons Halflings";
+    content: "\e114";
+    float: right;
+}
+
+.btn.collapsed:after {
+    content: "\e080";
+}
+
+#OpenColl{
+    position:absolute;
+    right : 0%;
+    z-index: 1;
+
+}
+.collapse {
+    background-color: #64e0e8;
+}
+button{
+    width:215px;
+}
+.sidenav {
+    height: 750px;
+    width: 215px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    margin-top:0px;
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurfProject", "TurfProject\TurfProject.csproj", "{AE260F86-4209-43DE-9AB1-3BAE174B89C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE260F86-4209-43DE-9AB1-3BAE174B89C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE260F86-4209-43DE-9AB1-3BAE174B89C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE260F86-4209-43DE-9AB1-3BAE174B89C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE260F86-4209-43DE-9AB1-3BAE174B89C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC8067D-3080-465E-BC1B-6BA4C3F31FD1}
+	EndGlobalSection
+EndGlobal
